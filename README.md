@@ -30,3 +30,20 @@ Investors,students and analysts need a simple way to compare prices, identify tr
 - Showing price trends in simple dashboard.
 - Saving time by analysing data automatically.
 - Helps understand market trends better.
+
+## Libraries:
+- pandas
+- sqlite3
+- streamlit
+- yfinance
+- pycoingecko
+- requests
+- datetime
+
+## SQL - Structured Query Language:
+SQL is used to manage and query data stored in the SQLite database. It retrieves, filters, joins and analyzes cryptocurrency, stock and oil market data for cross-market comparison.
+
+## Streamlit 
+Streamlit is an open-source Python framework used to build machine learning and data science web apps. It is easy to display data, charts, tables without web knowledge.
+
+
