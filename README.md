@@ -1,10 +1,15 @@
 # Cross-Market-Analysis
-This project is a Market Analysis Dashboard developed using Python, Streamlit , SQLite, Pandas, API to analyze and compare financial market data from cryptocurrencies, stock indices, crude oil prices. It describes cryptocurrency analysis, stock market analysis, oil price analysis, Filtering by data and asset and cross market comparison
+This project is a Market Analysis Dashboard developed using Python, Streamlit , SQLite, Pandas, API to analyze and compare financial market data from cryptocurrencies, stock indices, crude oil prices. It describes cryptocurrency analysis, stock market analysis, oil price analysis, Filtering by data and asset and cross market comparison.The project collects data from multiple sources, stores it in an SQLite database, and uses SQL queries to analyze market trends and relationships.An interactive Streamlit dashboard enables users to filter data, compare prices.
 
 ## Domain:
 1.Financial Data Analysis
 
 2.Crypto Currency and Stock Market Analysis
+
+## Data source/APIs
+- Cryptocurrency data from CoinGecko API
+- Stock market data from Yahoo Finance(yfinance)
+- Crude oil datadet from Github data
 
 ## Features:
 - Top 3 cryptocurrency analysis
